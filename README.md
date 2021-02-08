@@ -1,2 +1,3 @@
 # Exercises-C
- Exercises in C, level beginner.
+ Exercises in C.
+ **level beginner.**
